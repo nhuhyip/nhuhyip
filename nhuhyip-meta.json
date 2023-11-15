@@ -1,11 +1,11 @@
 {
-    "description": "Nhuhyip Logo",     
-    "image": "https://ipfs.io/ipfs/QmZXCN3m4qBfCyTgzd22hXvo7ysW7zpKb3XXzTHWsqoyLm", 
-    "name": "NHUHYIP",
-    "attributes": [ 
+    "name": "Nhuhyip",
+    "description": "Nhuhyip Logo",
+    "image_url": "https://github.com/nhuhyip/nhuhyip/blob/main/nhuhyip-logo.png",
+    "attributes": [
         {
-            "trait_type": "Version", 
-            "value": "1.0"
-        }
-     ]
-  }
+          "trait_type": "Version", 
+          "value": "1.0"
+        }      
+      ]
+}
