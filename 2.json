@@ -1,0 +1,11 @@
+{
+    "name": "Nhuhyip",
+    "description": "Nhuhyip Logo",
+    "image_url": "https://github.com/nhuhyip/nhuhyip/tree/main/2.png",
+    "attributes": [
+        {
+          "trait_type": "Version", 
+          "value": "1.0"
+        }      
+      ]
+}
